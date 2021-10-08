@@ -1,12 +1,11 @@
-# point-bar-geo-model
 
 
-The function called 'point-bar-geo-model.m'  recreates the channel meander path and models the gridded point bar geometry.
+The function called 'point-bar-geomodel.m'  recreates the channel meander path and models the gridded point bar geometry.
 This code  assumes that all units are in feets. 
 
  ---- USING THE DEMO FILE ---
 
-The code in this file activates the 'point-bar-geo-model.m' function
+The code in this file activates the 'point-bar-geomodel.m' function
 To run the demo file, the following input parameters  must be specified. 
 filename.txt    :       % the file containing the coordinates of the channel meander  path;   
 load loc_wells.txt;     % the file containing the coordinates of wells that may be present in the reservoir; 
