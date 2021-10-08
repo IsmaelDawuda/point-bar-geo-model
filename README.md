@@ -49,7 +49,7 @@ if there are any well specified, the locations will also be be saved as a textil
 In addition, the follwoing would be displayed:
 1) Grid for the Lateral Accretions in 2D
 2) Grid for the inclined heterolithic stratifications  in 2D
-3) Grid for the entire point Bar in 3D
+3) 3D curvilinear and rectilinear Grid for the entire point Bar
 4) Property distribution for the Point Bar in 3D
 
 
