@@ -46,7 +46,11 @@ Upon responding to the prompt messages, the 'point-bar-geo-model.m' code would b
 the final gridded point bar geometry will be saved  as a text file in an ascii format  as 'corner_point_grid.txt'
 if there are any well specified, the locations will also be be saved as a textile in an ascii format as 'well_locs_locations.xt'
 
-In addition, the follwoing would be displayed:
+In addition, the follwoing would be displayed graphically:
+
+1) the raw data showing the channel meander locations
+2) channel meander locations sorted in the direction of channel progression
+3) Randomly generated possible point bar well locations and  Channel path conditioned to go through channel nodes and bending to accomodate point bar locations on the concave side of the meander
 1) Grid for the Lateral Accretions in 2D
 2) Grid for the inclined heterolithic stratifications  in 2D
 3) 3D curvilinear and rectilinear Grid for the entire point Bar
