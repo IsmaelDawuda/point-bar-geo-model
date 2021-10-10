@@ -252,7 +252,7 @@ Wo           =   W/1.5;                 %(Leopold and Wolman, 1960), this unit i
  
 conv_factor  =  3.28084;    
  d       =   (conv_factor)*Wo;     %  unit converted to feets
- % REFERENCE:  Leopold, L. B., and M. G. Wolman, 1960, River meanders: Geological Society of America Bulletin, v. 71, p. 769 – 794
+ % REFERENCE:  Leopold, L. B., and M. G. Wolman, 1960, River meanders: Geological Society of America Bulletin, v. 71, p. 769 Â– 794
 
  s2 = zeros(1,numel(my_ycord2)); mytheta2 = s2; x2_toe = s2; y2_toe=s2;
  
@@ -1409,7 +1409,7 @@ hold off
 % title 'Property Distribution on a Rectilinear Grid'
 % 
 % take a section
-mysection  =   60;   % position to take the section
+mysection  =   floor(nx/2);   % position to take the section
 myfx       =   finalx(mysection,1:end,1:end);
 myfy       =   finaly(mysection,1:end,1:end);
 myfz       =   finalz(mysection,1:end,1:end);
