@@ -1,4 +1,4 @@
 
 If you use this code, please cite it as below:
 
-Dawuda, I., and Srinivasan S., (2021) A hierarchical stochastic modeling approach for representing point bar geometries and petrophysical property variations: Computers and Geosciences (Under Review)
+Dawuda, I., and Srinivasan S., (2022) A hierarchical stochastic modeling approach for representing point bar geometries and petrophysical property variations: Computers and Geosciences (Under Review)
